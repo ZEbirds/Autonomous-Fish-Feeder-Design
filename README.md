@@ -70,7 +70,11 @@ The feeder meets strict functional and environmental requirements, including uni
 
 ## 📸 Media & Demonstrations
 - **Animated assembly and operation sequences**
-- **Detailed diagrams**
+- !(https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Animation%20for%20fish%20feeder.gif)
+- **Detail diagram for Modular units**
+- !(https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Modular%20units.gif)
+- **Detailed diagram for fish feeder**
+- !(https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Diagram%20for%20fish%20feeder.png)
 
 ---
 
