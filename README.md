@@ -89,7 +89,7 @@ The feeder meets strict functional and environmental requirements, including uni
 <img src="https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Media%20%26%20Demonstrations/Diagram%20for%20fish%20feeder.png" width="600" height="400">
 </div>  
 
-- 　<font color='red'> text <**Detailed Solidworks zip file （which is largert than 25Mb and couldn't be uploaded here） could be found in https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp**> 
+- **<font color='red'> text <Detailed Solidworks zip file （which is largert than 25Mb and couldn't be uploaded here） could be found in https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp>**
 
 ---
 
