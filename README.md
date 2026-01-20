@@ -22,13 +22,13 @@ The feeder meets strict functional and environmental requirements, including uni
 
 ## 📁 Project Structure
 ```
-├── 📄 Collateral_Booklet_final.pdf     # Full design documentation
-├── 📊 Morphology_chart.xlsx            # Design option analysis
-├── 📈 Supporting_Calculations.xlsx     # Calculations for availability in Excel
-├── 📐 calculation.pdf                  # Head-writing Calculation
-├── 🎬 Fish Feeder Poster.pptx          # Presentation slide (limited in 1 page) with animations
-├── 🌀 Screw_feeding_device.zip         # Solidworks model of the fish feeder
+├── 📄 Collateral Booklet.pdf           # Full design documentation
+├── 📊 Morphology chart.xlsx            # Design option analysis (Morphology Chart)
+├── 📈 Supporting Calculations.xlsx     # Detailed engineering calculations
+├── 📐 calculation.pdf                  # Handwritten core calculation process
+├── 🌀 Fish_Feeder_Solidworks_Models.zip # Complete 3D Solidworks models (hosted externally) 🔗
 └── README.md                           # This file
+🔗 External Model Download: The complete Solidworks assembly is available for download [here]（https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp>）.
 ```
 
 ---
@@ -88,8 +88,6 @@ The feeder meets strict functional and environmental requirements, including uni
 <div align="center">
 <img src="https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Media%20%26%20Demonstrations/Diagram%20for%20fish%20feeder.png" width="600" height="400">
 </div>  
-
-- **<font color='red'> text <Detailed Solidworks zip file （which is largert than 25Mb and couldn't be uploaded here） could be found in https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp>**
 
 ---
 
