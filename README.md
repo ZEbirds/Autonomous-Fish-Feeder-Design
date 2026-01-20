@@ -82,7 +82,7 @@ The feeder meets strict functional and environmental requirements, including uni
 
 - **Detailed diagram for screw conveyor**  
 <div align="center">
-<img src="https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Media%20%26%20Demonstrations/Diagram%20for%20screw%20conveyor.mp4" width="600" height="400">
+<img src="https://github.com/ZEbirds/Autonomous-Fish-Feeder-Design/blob/main/Media%20%26%20Demonstrations/Diagram%20for%20screw%20conveyor.gif" width="600" height="400">
 </div> 
 
 - **Detailed diagram for fish feeder**  
