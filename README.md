@@ -24,9 +24,10 @@ The feeder meets strict functional and environmental requirements, including uni
 ```
 ├── 📄 Collateral_Booklet_final.pdf     # Full design documentation
 ├── 📊 Morphology_chart.xlsx            # Design option analysis
-├── 📈 Supporting_Calculations.xlsx     # Engineering calculations
-├── 📐 calculation.pdf                  # Detailed pump & stability math
-├── 🎬 Automatic_FF_prepre.pptx         # Presentation with animations
+├── 📈 Supporting_Calculations.xlsx     # Calculations for availability in Excel
+├── 📐 calculation.pdf                  # Head-writing Calculation
+├── 🎬 Fish Feeder Poster.pptx          # Presentation slide (limited in 1 page) with animations
+├── 🌀 Screw_feeding_device.zip         # Solidworks model of the fish feeder
 └── README.md                           # This file
 ```
 
@@ -68,8 +69,8 @@ The feeder meets strict functional and environmental requirements, including uni
 ---
 
 ## 📸 Media & Demonstrations
-- **Animated assembly and operation sequences** are included in `Automatic_FF_prepre.pptx`.
-- Detailed diagrams and CAD renders are available in the collateral PDF.
+- **Animated assembly and operation sequences**
+- **Detailed diagrams**
 
 ---
 
@@ -90,16 +91,12 @@ The feeder meets strict functional and environmental requirements, including uni
 ---
 
 ## 👥 Team & Acknowledgments
-Developed as a capstone engineering project with contributions in:
+Developed as an engineering project supervised by Prof.Yong Ren with contributions in:
 - Mechanical design & prototyping
 - Electronics & power systems
 - Control software & sensor integration
 - Environmental testing & validation
-
----
-
-## 📄 License
-This project is shared for educational and prototyping purposes. Commercial use requires permission.
+Really apprieciate for Prof Ren's Instruction and Support!
 
 ---
 *For more details, refer to the full design booklet and calculation files in this repository.*
