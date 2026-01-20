@@ -29,7 +29,7 @@ The feeder meets strict functional and environmental requirements, including uni
 ├── 🌀 Fish_Feeder_Solidworks_Models.zip # Complete 3D Solidworks models (hosted externally) 🔗
 └── README.md                           # This file
 ```
-🔗 External Model Download: The complete Solidworks assembly is available for download [here]（https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp>）.
+🔗 External Model Download: The complete Solidworks assembly is available for download [here](https://nottinghamedu1-my.sharepoint.com/:u:/g/personal/ssyzz32_nottingham_edu_cn/IQA3pZ69PzgnS7V3GZmcSEUvAfplTpRjcfVD-lP991K43vo?e=fe6gYp).
 
 
 ---
