@@ -82,14 +82,6 @@ The feeder meets strict functional and environmental requirements, including uni
 
 ---
 
-## 📈 Future Improvements
-- IoT integration for cloud-based feeding schedules.
-- Camera module for fish behavior monitoring.
-- Enhanced predictive cleaning based on humidity sensors.
-- Multi-tier pricing with extended battery and storage options.
-
----
-
 ## 👥 Team & Acknowledgments
 Developed as an engineering project supervised by Prof.Yong Ren with contributions in:
 - Mechanical design & prototyping
